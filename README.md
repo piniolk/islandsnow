@@ -10,3 +10,4 @@ Attempt 2 7:03
 
 WOD 1
 Attempt 1 24:46
+Attempt 2 8:10
