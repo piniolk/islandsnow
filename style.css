@@ -8,3 +8,15 @@
   border: none;
   box-shadow: none;
 }
+
+.grey-background {
+  background-color: #292929;
+  height: 200px;
+}
+
+.ui.three.column.grid.container.grey-background {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 50px;
+  color:white;
+}
