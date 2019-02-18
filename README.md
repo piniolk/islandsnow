@@ -8,6 +8,6 @@ WOD 2
 Attempt 1 18:06
 Attempt 2 7:03
 
-WOD 1
+WOD 3
 Attempt 1 24:46
 Attempt 2 8:10
